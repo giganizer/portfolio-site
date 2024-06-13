@@ -1,7 +1,7 @@
 {
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
-  "description": "Žiga Bradaš, Computer Science Student",
+  "description": "Personal portfolio site",
   "source": "src/index.html",
   "homepage": "http://gignizer.github.io/portfolio-site",
   "scripts": {
