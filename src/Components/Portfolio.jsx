@@ -31,7 +31,7 @@ const imageAltText = "Desktop with a laptop, other devices and office accessorie
  */
 const projectList = [
   {
-    title: "Number of comments prediction for news articles",
+    title: "Predicting the number of comments on news articles",
     description: "Extracted features from news article data and trained a linear regression model to predict the number of comments.",
     url: "https://github.com/giganizer/uozp-hw6",
   },
