@@ -29,7 +29,7 @@ const siteProps = {
   email: "zb6679@student.uni-lj.org",
   gitHub: "giganizer",
   instagram: "",
-  linkedIn: "žiga-bradaš-a5658b235",
+  linkedIn: "ziga-bradas",
   medium: "",
   twitter: "",
   youTube: "",
