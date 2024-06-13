@@ -41,6 +41,11 @@ const projectList = [
     url: "https://github.com/giganizer/OS_myshell",
   },
   {
+    title: "Solving Simulation Tasks with TurtleBot4",
+    description: "Implemented solutions that enable a TurtleBot4 robot to solve various tasks in a simulated environment.",
+    url: "https://github.com/giganizer/dis-delta-team",
+  },
+  {
     title: "Coming soon",
     description: "TBD",
     url: "",
