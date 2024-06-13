@@ -31,9 +31,18 @@ const imageAltText = "Desktop with a laptop, other devices and office accessorie
  */
 const projectList = [
   {
+    title: "Number of comments prediction for news articles",
+    description: "Extracted features from news article data and trained a linear regression model to predict the number of comments.",
+    url: "https://github.com/giganizer/uozp-hw6",
+  },
+  {
+    title: "myshell",
+    description: "A simple command line shell written in C. Supports basic commands and piping.",
+    url: "https://github.com/giganizer/OS_myshell",
+  },
+  {
     title: "Coming soon",
-    description:
-      "TBD",
+    description: "TBD",
     url: "",
   },
   // {
